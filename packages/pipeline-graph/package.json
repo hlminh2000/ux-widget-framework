@@ -19,7 +19,7 @@
         "prettier": "prettier --write \"src/**/*.{ts,js,tsx,jsx}\"",
         "updateSnapshot": "jest --updateSnapshot",
         "storybook": "start-storybook -p 6006",
-        "build-storybook": "build-storybook"
+        "build-storybook": "build-storybook -o public"
     },
     "bugs": {
         "url": "https://github.com/sophistifunk/blueocean-widgets/issues"
